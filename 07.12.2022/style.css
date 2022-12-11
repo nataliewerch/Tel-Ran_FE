@@ -1,0 +1,155 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@100;600&family=Oswald&family=Quicksand:wght@300&family=Roboto:wght@500&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html,
+body {
+  height: 100%;
+}
+
+body {
+  background: #2d283c;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.wrapper {
+  display: flex;
+  width: calc(3 * 450px);
+  flex-wrap: wrap;
+}
+
+.top {
+  display: flex;
+  width: 400px;
+  height: 101px;
+  gap: 200px;
+  margin-top: 30px;
+  margin-left: 50px;
+}
+.left1 {
+  color: #fcfcfd;
+}
+.right {
+  font-size: 10px;
+  text-transform: uppercase;
+  color: #a9a9d3;
+}
+.center1,
+.center,
+.center2 {
+  margin-left: 50px;
+  margin-bottom: 10px;
+}
+.center1 {
+  font-size: 10px;
+  text-transform: uppercase;
+  color: #9d9ecf;
+}
+
+.center {
+  font-size: 30px;
+  height: 100px;
+  width: 200px;
+  color: #ffffff;
+}
+.center2 {
+  font-size: 10px;
+  color: #8f90c7;
+}
+.left2 {
+  margin-left: 50px;
+  padding-top: 100px;
+  font-size: 10px;
+  color: #9495ca;
+}
+span {
+  color: #cd4661;
+}
+.block1,
+.block2,
+.block3,
+.block4,
+.block5,
+.block6 {
+  width: 450px;
+  aspect-ratio: 1;
+}
+
+.block1 {
+  background: #323993;
+}
+.block2 {
+  background: #fa5158;
+}
+.block3 {
+  background: #323993;
+}
+.block4 {
+  background: #3780f7;
+}
+.block5 {
+  background: #2a272b;
+}
+.block6 {
+  background: #ffffff;
+}
+.red,
+.lightblue {
+  color: white;
+}
+.red1,
+.lightblue1 {
+  gap: 160px;
+}
+.red2 {
+  color: #ffbfbd;
+}
+.red3,
+.red5,
+.red6 {
+  color: #ffb2b2;
+}
+.red4,
+.black4,
+.blue4 {
+  width: 215px;
+  height: 65px;
+}
+.red6,
+.black6,
+.blue6 {
+  padding-top: 140px;
+}
+.blue2,
+.blue3,
+.blue5,
+.blue6 {
+  color: #8f98c7;
+}
+.lightblue2,
+.lightblue3,
+.lightblue5,
+.lightblue6 {
+  color: #81afff;
+}
+.black2,
+.black3,
+.black5,
+.black6 {
+  color: #919092;
+}
+.white7,
+.white4 {
+  color: #29272b;
+}
+.white2,
+.white3,
+.white5,
+.white6 {
+  color: #9d9c9e;
+}
